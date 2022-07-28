@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msnunupops
 - 👀 I’m interested in becoming a tech sis
-- 🌱 I’m currently learning UI/UX writing and design, tryiny to also become a full stack babe
+- 🌱 I’m currently learning UI/UX writing and design, trying to also become a full stack babe
 - 💞️ I’m looking to collaborate on any projects that can help me learn these skills faster
 - 📫 How to reach me https://msnunupops.disha.page/
 
